@@ -14,6 +14,7 @@ Key takeaways:
 
 3️ Crafting an effective presentation in PowerPoint was made simpler with its diverse features, ensuring my insights were communicated clearly and convincingly.
 
+Hope you get out something from this
 
 
 
