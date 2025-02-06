@@ -3,7 +3,7 @@ In this engaging project, I leveraged the power of:
 1️ **MySQL**: Perfect for querying the database efficiently.
 
 2️ **Power BI**: A go-to tool for visualizing data, making insights pop!
-
+sf
 3️ **PowerPoint**: Ideal for crafting impactful presentations.
 
 Key takeaways:
